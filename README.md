@@ -35,7 +35,7 @@ Key Features of Figma:
 - Cross-Platform Accessibility: Accessible on any device via a web browser, with desktop apps available for macOS and Windows.
 - Version Control: Figma automatically saves design history, allowing you to track changes and revert if necessary.
 - Extensive Plugins and Templates: Access a rich ecosystem of plugins for icons, illustrations, and other design elements to enhance productivity.
-- 
+ 
 Why Figma is Ideal for Wireframing:
 - Simplicity: Its clean and straightforward interface makes it perfect for creating low-fidelity wireframes quickly.
 - Collaboration: Teams can brainstorm, comment, and iterate on designs in real-time, streamlining the feedback process.
@@ -55,7 +55,7 @@ Example: For the Booking Management System, a wireframe can outline the flow fro
 Wireframes provide a visual language that is easily understood by designers, developers, and non-technical stakeholders. They help teams discuss and refine ideas without getting bogged down in implementation details.
 Example: A wireframe of the User Dashboard showing upcoming bookings and notifications can help stakeholders agree on what features to prioritize before the development phase begins.
 
--Speeds Up Decision-Making:
+- Speeds Up Decision-Making:
 With wireframes, teams can quickly iterate on ideas and test different approaches before committing to a specific design. This minimizes costly changes later in the development process.
 Example: If the initial wireframe of the Admin Analytics Dashboard shows too much clutter, it’s easier to reorganize components during this stage than after coding has started.
 
